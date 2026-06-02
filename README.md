@@ -21,4 +21,7 @@ To become strong in:
 ### Day 2
 - How to make comment
 
+### Day 3 
+- Variable and data types complete
+
 (More coming daily...)
