@@ -17,3 +17,5 @@ elif Enter_number == 3:
     print("Multiply of your first and second number is :", num1*num2)
 elif Enter_number == 4:
     print("Division your first and second number is :", num1 / num2)
+else:
+    print("Invalid Number")
