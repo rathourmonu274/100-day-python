@@ -24,4 +24,10 @@ To become strong in:
 ### Day 3 
 - Variable and data types complete
 
+### Day 4 
+- operators complete
+
+### Day 5
+- Calculator complete 
+
 (More coming daily...)
